@@ -1,2 +1,1 @@
-# Reader
-A language-learning utility.
+# Reader - A language-learning utility.
