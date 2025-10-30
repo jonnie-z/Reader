@@ -1,5 +1,5 @@
 # Reader - A language-learning utility.
-Author: Jonnie Z (Jonah Zolohahni)
+Author: Jonnie Z (Jonah Z. Zolohahni)
 
 ### Intended Features:
 
